@@ -7,7 +7,11 @@ import { Component } from '@angular/core';
 })
 export class ServerComponent {
   id:number=10;
-  name:string="helo"
+  name:string="helo";
+  getserverstatus()
+  {
+        return  this.name
+  }
 
 
 }
