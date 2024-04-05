@@ -12,6 +12,22 @@ export class ServerComponent {
   {
     this.name=Math.random()>0.5?'online':'offline';
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   getserverstatus()
   {
         return  this.name
