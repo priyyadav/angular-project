@@ -14,20 +14,6 @@ export class ServerComponent {
   }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
   getserverstatus()
   {
         return  this.name
